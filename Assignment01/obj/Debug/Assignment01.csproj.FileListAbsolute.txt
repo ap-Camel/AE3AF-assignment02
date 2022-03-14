@@ -1,0 +1,15 @@
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.csprojAssemblyReference.cache
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\MainWindow.g.cs
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\App.g.cs
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01_MarkupCompile.cache
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01_MarkupCompile.lref
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\MainWindow.baml
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.g.resources
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.Properties.Resources.resources
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.GenerateResource.cache
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+C:\Users\Ayman\source\repos\Assignment01\Assignment01\obj\Debug\Assignment01.pdb
